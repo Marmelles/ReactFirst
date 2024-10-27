@@ -1,4 +1,5 @@
 import './style.css'
+import './script.js'
 
 export default function Header() {
     return (
